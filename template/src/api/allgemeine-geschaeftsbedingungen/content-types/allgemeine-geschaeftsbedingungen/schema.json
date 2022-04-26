@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "allgemeine_geschaeftsbedingungens",
+  "info": {
+    "singularName": "allgemeine-geschaeftsbedingungen",
+    "pluralName": "allgemeine-geschaeftsbedingungens",
+    "displayName": "Allgemeine Geschäftsbedingungen"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}

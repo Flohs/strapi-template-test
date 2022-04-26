@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "versand_und_zahlungsbedingungens",
+  "info": {
+    "singularName": "versand-und-zahlungsbedingungen",
+    "pluralName": "versand-und-zahlungsbedingungens",
+    "displayName": "Versand- und Zahlungsbedingungen"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}

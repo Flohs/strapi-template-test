@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "widerrufsrechts",
+  "info": {
+    "singularName": "widerrufsrecht",
+    "pluralName": "widerrufsrechts",
+    "displayName": "Widerrufsrecht"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}

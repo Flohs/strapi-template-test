@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "privatsphaere_und_datenschutzs",
+  "info": {
+    "singularName": "privatsphaere-und-datenschutz",
+    "pluralName": "privatsphaere-und-datenschutzs",
+    "displayName": "Privatsphäre und Datenschutz"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
