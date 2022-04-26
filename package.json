@@ -1,8 +1,19 @@
 {
-  "name": "@floh/strapi-template-test",
+  "name": "@flohs/strapi-template-test",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Flohs/strapi-template-test.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Flohs/strapi-template-test/issues"
+  },
+  "homepage": "https://github.com/Flohs/strapi-template-test#readme",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
